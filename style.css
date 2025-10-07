@@ -1,0 +1,47 @@
+.banner{
+  background-image: url(baner.jpg);
+  no repeat center;
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: white;
+}
+
+#service{
+ padding-top: 1%;
+ padding-bottom: 10%;
+}
+
+#portfolio{
+ padding-top: 1%;
+ padding-bottom: 2%;
+ background-color: bisque;
+ border: 0px;
+}
+
+.card {
+  margin-bottom: 30px; 
+}
+
+#staff{
+ padding-top: 1%;
+ padding-bottom: 5%;
+}
+
+#staff img{
+  height: 100px;
+  width: 100px;
+  border: 5px solid #737272;
+}
+
+#about{
+ padding-top: 1%;
+ padding-bottom: 5%;
+ background-color: bisque;
+
+}
+
+#about img{
+ height: 400px;
+ width: 500px;
+}
